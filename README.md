@@ -75,4 +75,4 @@ plot(t,eam);
 
 ### Result:
 Thus the amplitude modulation and demodulation is experimentally done and the output is verified.
-####
+#
