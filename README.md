@@ -42,6 +42,21 @@ Compare Signals Compare the original modulating signal with the demodulated sign
 ### Program:
 
 ~~~
+Am=6.85;
+fm=798;
+fs=79800;
+fc=7980;
+t=0:1/fs:2/fm;
+Ac=13.7;
+em=Am*cos(2*3.14*fm*t);
+subplot(3,1,1);
+plot(t,em);
+ec=Ac*cos(2*3.14*fc*t);
+subplot(3,1,2);
+plot(t,ec);
+eam=(Ac+em).*cos(2*3.14*fc*t);   
+subplot(3,1,3);
+plot(t,eam);
 ~~~
 
 ### Output Waveform:
