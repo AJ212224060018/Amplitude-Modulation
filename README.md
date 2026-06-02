@@ -106,7 +106,7 @@ plot(t,eam);
 
 ### Calculation:
 
-<img width="855" height="1600" alt="image" src="https://github.com/user-attachments/assets/076af858-7959-4c44-8a61-e4290189a46b" />
+<img width="1039" height="1600" alt="image" src="https://github.com/user-attachments/assets/d010e7c0-8a62-4dfc-a81a-e5f5422b1186" />
 
 ### Model Graph:
 
