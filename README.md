@@ -106,8 +106,7 @@ plot(t,eam);
 
 ### Calculation:
 
-### . ma (Theory) = am/ac = 0.5
-### . ma(Practical) = (Emax-Emin)/(Emax+Emin) = 0.5048
+<img width="855" height="1600" alt="image" src="https://github.com/user-attachments/assets/076af858-7959-4c44-8a61-e4290189a46b" />
 
 ### Model Graph:
 
