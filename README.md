@@ -38,7 +38,15 @@ Note: Keep all the switch faults in off position
 
 ### Algorithm:
 
-Define Parameters First, define the parameters for your signals: • Carrier frequency (fc) • Modulating signal frequency (fm) • Sampling frequency (Fs) • Duration of the signal (T)
+Define Parameters First, define the parameters for your signals: 
+
+• Carrier frequency (fc) 
+
+• Modulating signal frequency (fm) 
+
+• Sampling frequency (Fs) 
+
+• Duration of the signal (T)
 
 Create a time vector based on the sampling frequency and duration.
 
