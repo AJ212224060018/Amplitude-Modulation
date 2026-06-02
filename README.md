@@ -25,6 +25,7 @@ Modulation can be defined as the process by which the characteristics of carrier
   • Improve the quality of reception 
   
   • Ease of radiation. 
+  
 Amplitude Modulation is the process of changing the amplitude of a relatively high frequency carrier signal in proportion with the instantaneous value of the modulating signal. The output waveform contains all the frequencies that make up the AM signal and is used to transport the information through the system. Therefore the shape of the modulated wave is called the AM envelope. With no modulating signal the output waveform is simply the carrier signal. Coefficient of modulation is a term used to describe the amount of amplitude change present in an AM waveform. There are three degrees of modulation available based on value of modulation index.
 
 Under modulation : m<1, Em < Ec
@@ -53,7 +54,19 @@ Demodulate the AM Signal To demodulate, you can use envelope detection. One way 
 
 Plot the Demodulated Signal Visualize the demodulated signal.
 
-Compare Signals Compare the original modulating signal with the demodulated signal. PROCEDURE • Refer Algorithms and write code for the experiment. • Open SCILAB in System • Type your code in New Editor • Save the file • Execute the code • If any Error, correct it in code and execute again • Verify the generated waveform using Tabulation and Model Waveform
+Compare Signals Compare the original modulating signal with the demodulated signal. 
+### Procedure:
+  • Refer Algorithms and write code for the experiment. 
+  
+  • Open SCILAB in System 
+  
+  • Type your code in New Editor 
+  
+  • Save the file • Execute the code 
+  
+  • If any Error, correct it in code and execute again
+  
+  • Verify the generated waveform using Tabulation and Model Waveform
 
 ### Program:
 
