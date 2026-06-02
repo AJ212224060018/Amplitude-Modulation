@@ -101,6 +101,9 @@ plot(t,eam);
 <img width="762" height="722" alt="image" src="https://github.com/user-attachments/assets/e18fc811-43e9-4e6c-afe9-207af2fca8c6" />
 
 ### Tabulation:
+
+<img width="855" height="1600" alt="image" src="https://github.com/user-attachments/assets/ab9874b3-51c7-40f0-99ce-e51d09e79c90" />
+
 ### Calculation:
 
 ### . ma (Theory) = am/ac = 0.5
